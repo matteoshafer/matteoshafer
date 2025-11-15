@@ -10,8 +10,9 @@
 <body>
     <header class="hero">
         <div class="container">
-            <img src="assets/profile.jpg" alt="Profile picture" class="profile">
-            <h1>Hi, I’m <span class="highlight">Your Name</span></h1>
+            <!-- JS will fill the src with your GitHub avatar -->
+            <img src="" alt="Matteo Shafer" class="profile">
+            <h1>Hi, I’m <span class="highlight">Matteo Shafer</span></h1>
             <p class="tagline">Full-Stack Developer | Open-Source Enthusiast | Seattle, WA</p>
             <nav class="social">
                 <a href="https://github.com/matteoshafer" target="_blank" aria-label="GitHub">GitHub</a>
@@ -34,23 +35,23 @@
         <section class="projects">
             <h2>Featured Projects</h2>
             <div class="grid">
-                <!-- Repeat .card for each project -->
+                <!-- Replace the repo slugs below with your real ones -->
                 <article class="card">
                     <h3>Project Alpha</h3>
                     <p>Real-time collaborative editor built with React + Socket.io.</p>
-                    <a href="https://github.com/your-username/alpha" target="_blank" class="btn">View on GitHub</a>
+                    <a href="https://github.com/matteoshafer/alpha" target="_blank" class="btn">View on GitHub</a>
                 </article>
 
                 <article class="card">
                     <h3>Project Beta</h3>
                     <p>CLI tool for automating Docker deployments.</p>
-                    <a href="https://github.com/your-username/beta" target="_blank" class="btn">View on GitHub</a>
+                    <a href="https://github.com/matteoshafer/beta" target="_blank" class="btn">View on GitHub</a>
                 </article>
 
                 <article class="card">
                     <h3>Project Gamma</h3>
                     <p>Machine-learning pipeline for image classification.</p>
-                    <a href="https://github.com/your-username/gamma" target="_blank" class="btn">View on GitHub</a>
+                    <a href="https://github.com/matteoshafer/gamma" target="_blank" class="btn">View on GitHub</a>
                 </article>
             </div>
         </section>
@@ -58,20 +59,21 @@
         <section class="contact">
             <h2>Get in Touch</h2>
             <p>Feel free to reach out for collaborations or just a quick chat.</p>
-            <a href="mailto:you@example.com" class="btn primary">Send Email</a>
+            <a href="mailto:matteoveto@yahoo.com" class="btn primary">Send Email</a>
         </section>
     </main>
 
     <footer>
         <div class="container">
-            <p>© <span id="year"></span> Your Name. Built with ❤️ and GitHub Pages.</p>
+            <p>© <span id="year"></span> Matteo Shafer. Built with love and GitHub Pages.</p>
         </div>
     </footer>
 
-        <script>
-        // Set current year
+    <script>
+        // Auto-update the year
         document.getElementById('year').textContent = new Date().getFullYear();
 
+        // Load your GitHub avatar
         const img = document.querySelector('.profile');
         if (img) {
             img.src = 'https://avatars.githubusercontent.com/u/matteoshafer?v=4';
