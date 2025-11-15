@@ -68,6 +68,14 @@
         </div>
     </footer>
 
-    <script src="script.js"></script>
+        <script>
+        // Set current year
+        document.getElementById('year').textContent = new Date().getFullYear();
+
+        const img = document.querySelector('.profile');
+        if (img) {
+            img.src = 'https://avatars.githubusercontent.com/u/matteoshafer?v=4';
+        }
+    </script>
 </body>
 </html>
