@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hey, I'm Matteo Shafer</h1>
 
 <p align="center">
-  <strong>Full-stack Developer • TypeScript • React • Seattle</strong>
+  <strong>Full-stack Developer • TypeScript • React • San Diego</strong>
 </p>
 
 <p align="center">
