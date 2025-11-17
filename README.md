@@ -63,5 +63,5 @@
 
 ## 📫 Contact Me
 
-- **Email:** YOUR_EMAIL_HERE  
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_HERE  
+- **Email:** matteoveto@yahoo.com  
+- **LinkedIn:** https://www.linkedin.com/in/matteo-shafer-102105197/
