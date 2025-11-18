@@ -29,26 +29,24 @@
 ## Tech Stack
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" title="R"/>
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="44" alt="R" title="R"/>
   <br><br>
-  <!-- Data & Analytics -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" title="SQL"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/svg/powerbi.svg" height="42" title="Power BI"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-logo.svg" height="42" title="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="42" title="Excel"/>
-  <img src="https://www.vectorlogo.zone/logos/getsas/getsas-icon.svg" height="42" title="SAS"/>
+  <!-- Data & Analytics Tools (fixed icons) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="44" alt="SQL" title="SQL"/> <!-- proper SQL icon (no dolphin!) -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/svg/powerbi.svg" height="44" alt="Power BI" title="Power BI"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="44" alt="Tableau" title="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="Excel" title="Excel"/> <!-- using the closest official Excel icon -->
+  <img src="https://www.vectorlogo.zone/logos/getsas/getsas-icon.svg" height="44" alt="SAS" title="SAS"/>
 </p>
 
 ---
 
 ## Highlighted Projects
 
-- **[HumanVoiceAI](https://github.com/matteoshafer/HumanVoiceAI)** — Real-time collaborative editor (TypeScript + Python backend)  
+- **[HumanVoiceAI](https://github.com/matteoshafer/HumanVoiceAI)** — Real-timecollaborative editor (TypeScript + Python backend)  
 - **[InvoiceFlowAgent](https://github.com/matteoshafer/InvoiceFlowAgent)** — Automated invoice processing & data pipeline  
 - **[OrbitAgents](https://github.com/matteoshafer/OrbitAgents)** — Full-stack search + analytics dashboard for large datasets  
 
