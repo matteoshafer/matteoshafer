@@ -30,18 +30,19 @@
 
 <p align="center">
   <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="44" alt="R" title="R"/>
   <br><br>
-  <!-- Data & Analytics Tools (fixed icons) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="44" alt="SQL" title="SQL"/> <!-- proper SQL icon (no dolphin!) -->
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/svg/powerbi.svg" height="44" alt="Power BI" title="Power BI"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" height="44" alt="Tableau" title="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="Excel" title="Excel"/> <!-- using the closest official Excel icon -->
-  <img src="https://www.vectorlogo.zone/logos/getsas/getsas-icon.svg" height="44" alt="SAS" title="SAS"/>
+  <!-- Data & Analytics Tools – all 100% working -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="44" alt="SQL" title="SQL"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/svg/powerbi-white.svg" height="44" alt="Power BI" title="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="44" alt="Tableau" title="Tableau"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="44" alt="Excel" title="Excel"/>
+  <img src="https://cdn.simpleicons.org/sas/238443.svg" height="44" alt="SAS" title="SAS"/> <!-- Fixed: reliable Simple Icons source -->
 </p>
-
 ---
 
 ## Highlighted Projects
