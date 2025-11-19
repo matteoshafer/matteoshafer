@@ -31,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50"/>
-  <img src="https://www.jmp.com/en_us/images/logos/jmp-logo.svg" height="50"/>
 </p>
 
 #### 📊 Data Tools
@@ -40,7 +39,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="50"/>
   <img src="https://www.svgrepo.com/show/374062/sas.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Power_Apps_logo.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/JMP_logo.png" alt="JMP" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Power_Apps_Icon.png" alt="Power Apps" width="60">
+
 </p>
 
 #### 🗄️ Databases
