@@ -44,22 +44,6 @@
 
 ---
 
-## Tech Stack
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="44" alt="R" title="R"/>
-  <br><br>
-  <!-- Data & Analytics Tools – all 100% working -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="44" alt="SQL" title="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44" alt="Power BI" title="Power BI"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="44" alt="Tableau" title="Tableau"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="44" alt="Excel" title="Excel"/>
-  <img src="https://www.svgrepo.com/show/374062/sas.svg" height="44" alt="SAS" title="SAS"/>
-</p>
----
 
 ## Highlighted Projects
 
