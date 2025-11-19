@@ -39,8 +39,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="50"/>
   <img src="https://www.svgrepo.com/show/374062/sas.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/JMP_logo.png" alt="JMP" width="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Power_Apps_Icon.png" alt="Power Apps" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/JMP_logo.png" alt="JMP" height="50">
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-system-icons/master/assets/Product/PowerApps/SVG/ic_fluent_power_apps_24_regular.svg" alt="Power Apps" width="60">
 
 </p>
 
