@@ -1,6 +1,6 @@
 <!-- Header Banner (optional) -->
 <p align="center">
-  <img src="assets/hero_dark.webp" alt="Banner" style="width:100%; border-radius:8px;" />
+  <img src="https://avatars.githubusercontent.com/u/51341922" alt="Matteo Shafer" width="180" height="180" style="border-radius:50%; border:4px solid #2d88ff; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
 </p>
 
 <h1 align="center">Hey, I'm Matteo Shafer</h1>
