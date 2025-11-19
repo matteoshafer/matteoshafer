@@ -36,9 +36,9 @@
   <br><br>
   <!-- Data & Analytics Tools – all 100% working -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="44" alt="SQL" title="SQL"/>
-``<img src="/assets/icons/powerbi.svg" height="44" alt="Power BI" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44" alt="Power BI" title="Power BI"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="44" alt="Tableau" title="Tableau"/>
-  <img src="/assets/icons/excel.svg" height="44" alt="Excel" title="Excel"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="44" alt="Excel" title="Excel"/>
   <img src="https://www.svgrepo.com/show/374062/sas.svg" height="44" alt="SAS" title="SAS"/>
 </p>
 ---
