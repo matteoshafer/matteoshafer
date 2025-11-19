@@ -24,6 +24,24 @@
   </a>
 </p>
 
+### Tech Stack
+
+#### 🧪 Programming & Analytics
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="44" title="R"/>
+<img src="https://www.jmp.com/en_us/images/logos/jmp-logo.svg" height="44" title="JMP"/>
+
+#### 📊 Data Tools
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="44" title="Power BI"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="44" title="Tableau"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="44" title="Excel"/>
+<img src="https://www.svgrepo.com/show/374062/sas.svg" height="44" title="SAS"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Power_Apps_logo.svg" height="44" title="Power Apps"/>
+
+#### 🗄️ Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="44" title="SQL Server"/>
+
 ---
 
 ## Tech Stack
