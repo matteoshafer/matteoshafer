@@ -39,9 +39,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="50"/>
   <img src="https://www.svgrepo.com/show/374062/sas.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Powerapps-logo.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/JMP_software_logo.svg" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Stata_Logo.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftpowerapps.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/jmp.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/stata.svg" height="50"/>
 
 
 </p>
