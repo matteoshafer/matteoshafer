@@ -53,7 +53,7 @@
 
 ## Highlighted Projects
 
-- **[HumanVoiceAI](https://github.com/matteoshafer/HumanVoiceAI)** — Real-timecollaborative editor (TypeScript + Python backend)  
+- **[BTC Trading Model](https://github.com/matteoshafer/cryptoTrading_fork)** —Bitcoin Price Trading Model
 - **[InvoiceFlowAgent](https://github.com/matteoshafer/InvoiceFlowAgent)** — Automated invoice processing & data pipeline  
 - **[OrbitAgents](https://github.com/matteoshafer/OrbitAgents)** — Full-stack search + analytics dashboard for large datasets  
 
