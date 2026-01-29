@@ -54,7 +54,7 @@
 ## Highlighted Projects
 
 - **[BTC Trading Model](https://github.com/matteoshafer/cryptoTrading_fork)** —Bitcoin Price Trading Model
-- **[InvoiceFlowAgent](https://github.com/matteoshafer/InvoiceFlowAgent)** — Automated invoice processing & data pipeline  
+- **[Solana Weather Trading Bot](https://github.com/matteoshafer/solana-weather-trading-bot-polymarket)** — Solana Trading Bot for Weather on Polymarket
 - **[OrbitAgents](https://github.com/matteoshafer/OrbitAgents)** — Full-stack search + analytics dashboard for large datasets  
 
 ---
